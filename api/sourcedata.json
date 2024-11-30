@@ -1,0 +1,102 @@
+{
+    "koreanDramas": [
+      {
+        "title": "Crash Landing on You",
+        "description": "A South Korean heiress accidentally lands in North Korea and meets an army officer who helps her hide.",
+        "genre": "Romance, Drama",
+        "releaseYear": 2019,
+        "imageUrl": "https://www.koimoi.com/wp-content/new-galleries/2023/09/did-you-know-crash-landing-on-you-starring-hyun-bin-son-ye-jin-is-based-on-a-true-story-001.jpg",
+        "netflixUrl": "https://www.netflix.com/search?q=cra&jbv=81159258"
+      },
+      {
+        "title": "Itaewon Class",
+        "description": "An ex-con and his friends fight to make their street bar a success while facing challenges from a powerful rival.",
+        "genre": "Drama, Business",
+        "releaseYear": 2020,
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStg_Q_Aw74vosmUb6PIRy9FkOSMC2CARNE8Q&s",
+        "netflixUrl":"https://www.netflix.com/search?q=Itaewon%20Class&jbv=81193309"
+      
+      },
+      {
+        "title": "Goblin",
+        "description": "An immortal goblin seeks a bride to end his cursed eternal life.",
+        "genre": "Fantasy, Romance",
+        "releaseYear": 2016,
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROzNrjCRQJwx-agBCveUSpbn6qkPpxiTqiGg&s",
+        "netflixUrl":"https://www.netflix.com/search?q=Goblin&jbv=81012510"
+      },
+      {
+        "title": "Vincenzo",
+        "description": "A Korean-Italian mafia lawyer returns to Korea and gets involved in a battle against corrupt officials.",
+        "genre": "Crime, Comedy",
+        "releaseYear": 2021,
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGWp05iIYZ9owFBPzsVHyaFBIDMMCtekC22Q&s",
+        "netflixUrl":"https://www.netflix.com/search?q=Vincenzo&jbv=81365087"
+      },
+      {
+        "title": "Kingdom",
+        "description": "Set in Korea’s Joseon era, a crown prince faces a zombie apocalypse while dealing with political conspiracies.",
+        "genre": "Thriller, Horror",
+        "releaseYear": 2019,
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIO7Jb4WBYVun2td_oj4q263MX7eZmDjpC6A&s",
+        "netflixUrl":"https://www.netflix.com/search?q=Kingdom&jbv=81704688"
+      },
+      {
+        "title": "Start-Up",
+        "description": "Young entrepreneurs compete for success and love in the cutthroat world of Korea’s high-tech industry.",
+        "genre": "Romance, Business",
+        "releaseYear": 2020,
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRebVCYlmtLsn1tM9cQtfErtPTz34ePliK3TA&s",
+        "netflixUrl":"https://www.netflix.com/search?q=Start-Up&jbv=81290293"
+      },
+      {
+        "title": "Descendants of the Sun",
+        "description": "A soldier and a doctor navigate their professional duties and personal feelings in a war-torn country.",
+        "genre": "Romance, Action",
+        "releaseYear": 2016,
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-n65pL52fp6O6ZdpNB-yRl6CTqU06VyAArQ&s",
+        "netflixUrl":"https://www.netflix.com/search?q=Descendants%20of%20the%20Sun&jbv=80123798"
+      },
+      {
+        "title": "My Love from the Star",
+        "description": "An alien stranded on Earth falls in love with a famous actress just as his departure nears.",
+        "genre": "Romance, Fantasy",
+        "releaseYear": 2013,
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBk9ptBL5BrhnUzwKEjCteu6mvBCwoz1j1wg&s",
+        "netflixUrl":"https://www.netflix.com/search?q=My%20Love%20from%20the%20Star&jbv=80025266"
+      },
+      {
+        "title": "Hotel Del Luna",
+        "description": "A haunted hotel’s manager and its mysterious owner help spirits resolve unfinished business.",
+        "genre": "Fantasy, Drama",
+        "releaseYear": 2019,
+        "imageUrl": "https://i.mydramalist.com/eKKle_2f.jpg",
+        "netflixUrl":"https://www.netflix.com/search?q=Hotel%20Del%20Luna&jbv=81205849"
+      },
+      {
+        "title": "The Heirs",
+        "description": "Rich high school students navigate love and friendship while dealing with their family pressures.",
+        "genre": "Romance, Teen",
+        "releaseYear": 2013,
+        "imageUrl": "https://i.ytimg.com/vi/TffaRD-t7wY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDhRgyiNggLykPS8w6HePdb4ini-w",
+        "netflixUrl":"https://www.netflix.com/search?q=The%20Heirs&jbv=81033650"
+      },
+      {
+        "title": "Extraordinary Attorney Woo",
+        "description": "A young lawyer with autism spectrum disorder takes on challenging cases and finds her place in the legal world.",
+        "genre": "Legal, Drama",
+        "releaseYear": 2022,
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvKjJknrxDrkCOI4dqMjAh5cU5DG8wEkh6GA&s",
+        "netflixUrl":"https://www.netflix.com/search?q=Extraordinary%20Attorney%20Woo&jbv=81518991"
+      },
+      {
+        "title": "Hometown Cha-Cha-Cha",
+        "description": "A dentist moves to a seaside village and finds herself drawn to a mysterious handyman.",
+        "genre": "Romance, Comedy",
+        "releaseYear": 2021,
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHiSpTrM7dMDejl4bTM__8DJ0kmbgdYVaXfw&s",
+        "netflixUrl":"https://www.netflix.com/search?q=Hometown%20Cha-Cha-Cha&jbv=81473182"
+      }
+    ]
+  }
+  
